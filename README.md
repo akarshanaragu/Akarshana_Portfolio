@@ -2,7 +2,7 @@
 
 A sleek, responsive, and modern personal portfolio website built with **React**, **Vite**, and **Vanilla CSS** featuring glassmorphic designs, light/dark mode toggling, and interactive filters.
 
-Live Link: *(Insert your Vercel/GitHub Pages URL here once deployed!)*
+Live Link: https://akarshana-portfolio.vercel.app/
 
 ---
 
